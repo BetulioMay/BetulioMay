@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cesar
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently learning Computer Science at UGR
 - 📫 How to reach me: cesarmay@protonmail.com
 
 <!---
