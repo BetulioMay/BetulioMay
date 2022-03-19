@@ -3,7 +3,7 @@
 - 📫 How to reach me: cesarmay@protonmail.com
 - 💬 Languages:
   - Native Spanish
-  - Proficiency English
+  - Proficient English
   - Basic German
 
 <!---
